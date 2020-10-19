@@ -1,8 +1,12 @@
 # This is 100-days-of-electronics challenge
----
+
+Challenge is a variant of **#100daysofcode** for electronics. 
+Rules are not that different from #100daysofcode:
+- Do electronic projects for 100days
 
 
-# I've joined the #100DaysOfCode Challenge
+
+## I've joined the #100DaysOfCode Challenge
 
 ## Contents
 
