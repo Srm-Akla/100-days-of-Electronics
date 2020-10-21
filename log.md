@@ -5,4 +5,7 @@ Worked on my bash scripts. Finished ild script and passwd_gen script. [Link](htt
 
 
 #### 20 October 2020
-Worked on cipher. Caesar and scytale. [Link](https://github.com/Srm-Akla/Ciphers)
+Worked on ciphers. Caesar and scytale. [Link](https://github.com/Srm-Akla/Ciphers)
+
+#### 21 October 2020
+Worked on ROT cipher. Struggling with "argsparse" module in python. [Link](https://github.com/Srm-Akla/Ciphers/tree/main/Substitution)
