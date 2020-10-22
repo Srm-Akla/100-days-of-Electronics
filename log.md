@@ -9,3 +9,6 @@ Worked on ciphers. Caesar and scytale. [Link](https://github.com/Srm-Akla/Cipher
 
 #### 21 October 2020
 Worked on ROT cipher. Struggling with "argsparse" module in python. [Link](https://github.com/Srm-Akla/Ciphers/tree/main/Substitution)
+
+#### 22 October 2020
+Added sensehat folder, and simple sensehat python script. [Link](https://github.com/Srm-Akla/RaspberryPie/tree/master/Sensehat)
