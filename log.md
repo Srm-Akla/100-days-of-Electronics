@@ -17,4 +17,4 @@ Added sensehat folder, and simple sensehat python script. [Link](https://github.
 Led_matrix and Sensor for sensehat. [Link](https://github.com/Srm-Akla/RaspberryPie/tree/master/Sensehat)
 
 #### 24 October 2020
-Changed ROT.py to Caesar.py  [Link](https://github.com/Srm-Akla/Ciphers/tree/master/Subsitution)
+Changed ROT.py to Caesar.py  [Link](https://github.com/Srm-Akla/Ciphers/tree/main/Substitution)
