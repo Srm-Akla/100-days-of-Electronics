@@ -18,3 +18,6 @@ Led_matrix and Sensor for sensehat. [Link](https://github.com/Srm-Akla/Raspberry
 
 #### 24 October 2020
 Changed ROT.py to Caesar.py  [Link](https://github.com/Srm-Akla/Ciphers/tree/main/Substitution)
+
+#### 25 October 2020
+Documentation Day, Added comments to code
