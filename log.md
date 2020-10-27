@@ -5,10 +5,10 @@ Worked on my bash scripts. Finished ild script and passwd_gen script. [Link](htt
 
 
 #### 20 October 2020
-Worked on ciphers. Caesar and scytale. [Link](https://github.com/Srm-Akla/Ciphers)
+Worked on ciphers. Caesar and scytale. [Link](https://github.com/Srm-Akla/Cryptography)
 
 #### 21 October 2020
-Worked on ROT cipher. Struggling with "argsparse" module in python. [Link](https://github.com/Srm-Akla/Ciphers/tree/main/Substitution)
+Worked on ROT cipher. Struggling with "argsparse" module in python. [Link](https://github.com/Srm-Akla/Cryptography/tree/main/Substitution_Ciphers)
 
 #### 22 October 2020
 Added sensehat folder, and simple sensehat python script. [Link](https://github.com/Srm-Akla/RaspberryPie/tree/master/Sensehat)
@@ -17,7 +17,7 @@ Added sensehat folder, and simple sensehat python script. [Link](https://github.
 Led_matrix and Sensor for sensehat. [Link](https://github.com/Srm-Akla/RaspberryPie/tree/master/Sensehat)
 
 #### 24 October 2020
-Changed ROT.py to Caesar.py  [Link](https://github.com/Srm-Akla/Ciphers/tree/main/Substitution)
+Changed ROT.py to Caesar.py  [Link](https://github.com/Srm-Akla/Cryptography/tree/main/Substitution_Ciphers)
 
 #### 25 October 2020
 Documentation Day, Added comments to code
@@ -26,4 +26,4 @@ Documentation Day, Added comments to code
 Worked on Atbash and Vinegere Cipher. [Link](https://github.com/Srm-Akla/Cryptography)
 
 #### 27 October 2020
-Worked on XOR cipher. [Link](https://github.com/Srm-Akla/Ciphers/tree/main/Modern_Cipher)
+Worked on XOR cipher. [Link](https://github.com/Srm-Akla/Cryptography/tree/main/Modern_Ciphers)
