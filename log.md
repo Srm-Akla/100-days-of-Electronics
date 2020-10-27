@@ -24,3 +24,6 @@ Documentation Day, Added comments to code
 
 #### 26 October 2020
 Worked on Atbash and Vinegere Cipher. [Link](https://github.com/Srm-Akla/Cryptography)
+
+#### 27 October 2020
+Worked on XOR cipher. [Link](https://github.com/Srm-Akla/Ciphers/tree/main/Modern_Cipher)
