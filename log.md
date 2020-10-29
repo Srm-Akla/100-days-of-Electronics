@@ -27,3 +27,6 @@ Worked on Atbash and Vinegere Cipher. [Link](https://github.com/Srm-Akla/Cryptog
 
 #### 27 October 2020
 Worked on XOR cipher. [Link](https://github.com/Srm-Akla/Cryptography/tree/main/Modern_Ciphers)
+
+#### 28 October 2020
+Worked on XOR cipher. [Link](https://github.com/Srm-Akla/Cryptography/tree/main/Modern_Ciphers)
