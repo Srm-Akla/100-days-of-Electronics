@@ -33,3 +33,9 @@ Worked on XOR cipher. [Link](https://github.com/Srm-Akla/Cryptography/tree/main/
 
 #### 29 October 2020
 Worked on Pong Game on Sensehat. [Link](https://github.com/Srm-Akla/RaspberryPie/blob/main/Sensehat/Pong.pyi)
+
+#### 03 November 2020
+Updating Script updt [Link](https://github.com/Srm-Akla/Scripts/blob/main/ild)
+
+#### 05 November 2020
+Adding dotfiles. [Link](https://github.com/Srm-Akla/dotfiles)
