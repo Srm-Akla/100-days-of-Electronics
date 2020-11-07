@@ -39,3 +39,6 @@ Updating Script updt [Link](https://github.com/Srm-Akla/Scripts/blob/main/ild)
 
 #### 05 November 2020
 Adding dotfiles. [Link](https://github.com/Srm-Akla/dotfiles)
+
+#### 07 November 2020
+Working on my Portfolio [Link](https://github.com/Srm-Akla/Portfolio)
