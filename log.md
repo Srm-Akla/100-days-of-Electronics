@@ -42,3 +42,6 @@ Adding dotfiles. [Link](https://github.com/Srm-Akla/dotfiles)
 
 #### 07 November 2020
 Working on my Portfolio [Link](https://github.com/Srm-Akla/Portfolio)
+
+#### 08 November 2020
+Worked on XOR Cipher. [Link](https://github.com/Srm-Akla/Cryptography/blob/main/Modern_Ciphers/XOR.py)
