@@ -45,3 +45,6 @@ Working on my Portfolio [Link](https://github.com/Srm-Akla/Portfolio)
 
 #### 08 November 2020
 Worked on XOR Cipher. [Link](https://github.com/Srm-Akla/Cryptography/blob/main/Modern_Ciphers/XOR.py)
+
+#### 11 November 2020
+Updating Pong, dotfiles. [Link]()
