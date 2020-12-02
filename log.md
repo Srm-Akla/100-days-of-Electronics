@@ -48,3 +48,7 @@ Worked on XOR Cipher. [Link](https://github.com/Srm-Akla/Cryptography/blob/main/
 
 #### 11 November 2020
 Updating Pong, dotfiles. [Link]()
+
+
+#### 2 December 2020
+Updating I3 configs. [Link]()
