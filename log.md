@@ -51,6 +51,27 @@ Updating Pong, dotfiles. [Pong](https://github.com/Srm-Akla/RaspberryPie/blob/ma
 #### 12 November 2020
 Created a Project Sensehat_Mqtt. [Link](https://github.com/Srm-Akla/SenseHat_Mqtt)
 
+#### 17 November 2020
+worked on Sensehat_Mqtt. [Link](https://github.com/Srm-Akla/SenseHat_Mqtt)
+
+#### 23
+Updating dotfiles. [Link](https://github.com/Srm-Akla/dotfiles)
+
+#### 24
+Updating dotfiles. [Link](https://github.com/Srm-Akla/dotfiles)
+
+#### 25
+Adding Configs.sh [Link](https://github.com/Srm-Akla/Scripts)
+
+#### 27
+Finished configs.sh.[Link](https://github.com/Srm-Akla/Scripts)
+
+#### 30
+Updating READMEs.
+
+#### 1
+Updating dotfiles. [Link](https://github.com/Srm-Akla/dotfiles)
+
 #### 2 December 2020
 Updating I3 configs. [Link](https://github.com/Srm-Akla/dotfiles/tree/main/i3)
 
