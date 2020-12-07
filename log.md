@@ -3,7 +3,6 @@
 #### 19 October 2020
 Worked on my bash scripts. Finished ild script and passwd_gen script. [Link](https://github.com/Srm-Akla/Scripts)
 
-
 #### 20 October 2020
 Worked on ciphers. Caesar and scytale. [Link](https://github.com/Srm-Akla/Cryptography)
 
@@ -47,11 +46,13 @@ Working on my Portfolio [Link](https://github.com/Srm-Akla/Portfolio)
 Worked on XOR Cipher. [Link](https://github.com/Srm-Akla/Cryptography/blob/main/Modern_Ciphers/XOR.py)
 
 #### 11 November 2020
-Updating Pong, dotfiles. [Link]()
+Updating Pong, dotfiles. [Pong](https://github.com/Srm-Akla/RaspberryPie/blob/main/Sensehat/Pong.py)
 
+#### 12 November 2020
+Created a Project Sensehat_Mqtt. [Link](https://github.com/Srm-Akla/SenseHat_Mqtt)
 
 #### 2 December 2020
-Updating I3 configs. [Link]()
+Updating I3 configs. [Link](https://github.com/Srm-Akla/dotfiles/tree/main/i3)
 
 #### 5 December 2020
 Working on new project -> [Calculator]() 
