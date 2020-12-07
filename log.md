@@ -52,3 +52,9 @@ Updating Pong, dotfiles. [Link]()
 
 #### 2 December 2020
 Updating I3 configs. [Link]()
+
+#### 5 December 2020
+Working on new project -> [Calculator]() 
+
+#### 6 December 2020
+Added new functions - Addition, Subtraction, Multiplication and Division. [Link]()
