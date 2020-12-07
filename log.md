@@ -54,22 +54,22 @@ Created a Project Sensehat_Mqtt. [Link](https://github.com/Srm-Akla/SenseHat_Mqt
 #### 17 November 2020
 worked on Sensehat_Mqtt. [Link](https://github.com/Srm-Akla/SenseHat_Mqtt)
 
-#### 23
+#### 23 November 2020
 Updating dotfiles. [Link](https://github.com/Srm-Akla/dotfiles)
 
-#### 24
+#### 24 November 2020
 Updating dotfiles. [Link](https://github.com/Srm-Akla/dotfiles)
 
-#### 25
+#### 25 November 2020
 Adding Configs.sh [Link](https://github.com/Srm-Akla/Scripts)
 
-#### 27
+#### 27 November 2020
 Finished configs.sh.[Link](https://github.com/Srm-Akla/Scripts)
 
-#### 30
+#### 30 November 2020
 Updating READMEs.
 
-#### 1
+#### 1 December 2020
 Updating dotfiles. [Link](https://github.com/Srm-Akla/dotfiles)
 
 #### 2 December 2020
